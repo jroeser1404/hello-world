@@ -3,6 +3,8 @@
 
 <h3>Don't forget about the JOKER!!!!!!!!!</h3>
 
+Blah blah blah.
+
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
