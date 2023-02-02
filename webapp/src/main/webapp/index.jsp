@@ -7,6 +7,8 @@ Blah blah blah.
 
 Hi Pam!
 
+<i>I have not used italics in a while.</i>
+
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
